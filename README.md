@@ -4,6 +4,8 @@
 
 2. Install Python "arcade" Library
 
+3. Run `src/Game.py`
+
 # Code Overview
 
 ## Technologies
